@@ -1,0 +1,27 @@
+{
+    "dandelion": {
+        "correct": 73,
+        "total": 83,
+        "accuracy": 0.8795
+    },
+    "frangipani": {
+        "correct": 72,
+        "total": 78,
+        "accuracy": 0.9231
+    },
+    "morning_glory": {
+        "correct": 75,
+        "total": 82,
+        "accuracy": 0.9146
+    },
+    "peony": {
+        "correct": 78,
+        "total": 88,
+        "accuracy": 0.8864
+    },
+    "sunflower": {
+        "correct": 85,
+        "total": 88,
+        "accuracy": 0.9659
+    }
+}

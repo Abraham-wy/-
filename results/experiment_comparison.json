@@ -1,0 +1,45 @@
+{
+    "baseline": {
+        "best_val_acc": 0.9082,
+        "best_epoch": 9,
+        "final_train_acc": 0.9861,
+        "final_val_acc": 0.9059
+    },
+    "improved": {
+        "best_val_acc": 0.9141,
+        "best_epoch": 9,
+        "final_train_acc": 0.8284,
+        "final_val_acc": 0.9141,
+        "per_class_accuracy": {
+            "dandelion": {
+                "correct": 73,
+                "total": 83,
+                "accuracy": 0.8795
+            },
+            "frangipani": {
+                "correct": 72,
+                "total": 78,
+                "accuracy": 0.9231
+            },
+            "morning_glory": {
+                "correct": 75,
+                "total": 82,
+                "accuracy": 0.9146
+            },
+            "peony": {
+                "correct": 78,
+                "total": 88,
+                "accuracy": 0.8864
+            },
+            "sunflower": {
+                "correct": 85,
+                "total": 88,
+                "accuracy": 0.9659
+            }
+        }
+    },
+    "improvement": {
+        "val_acc_gain": 0.0059,
+        "val_acc_gain_percent": 0.65
+    }
+}
